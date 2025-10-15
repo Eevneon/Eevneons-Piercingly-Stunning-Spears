@@ -17,3 +17,5 @@ The changes include, but are not limited to:
 
 ## Contact information
 If you want to give feedback, or have a fun talk, DM me via [Bluesky](https://bsky.app/profile/eevneon.bsky.social) or on Discord (My Discord username is eevneon)
+
+[Modrinth page](https://modrinth.com/resourcepack/eevneons-piercingly-stunning-spears)
