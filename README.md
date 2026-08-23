@@ -3,7 +3,7 @@ A visual overhaul of the newly added spears to soothe your eyes.
 
 ## Description
  
-**Eevneon's Piercingly Stunning Spears** is a quite simple resource pack, changing the textures of the newly added spears. See the _gallery_ tab for a preview!
+**Eevneon's Piercingly Stunning Spears** is a quite simple resource pack, changing the textures of the newly added spears. See the _gallery_ tab for a preview! (Modrinth page)
 
 
 The changes include, but are not limited to:
